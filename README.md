@@ -66,6 +66,12 @@ We leverage AWS Config and Cloud Trail to track everything that happens.
 
 Creation of Datadog dashboards to monitor everything.
 
+# How does it look?
+
+![]()
+
+## What are developers suposed to do?
+
 # 👏 Success!
 
 ## 100+ AWS accounts
@@ -73,8 +79,6 @@ Creation of Datadog dashboards to monitor everything.
 ## 250+ APIs publicly available
 
 ## Everything is 1 pull request away
-
-# Big picture
 
 # Thank you!
 
