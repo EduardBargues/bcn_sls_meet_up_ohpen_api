@@ -1,6 +1,6 @@
 # Ohpen-API
 
-How Platform Services Team (PST) created an IDP with on-demand environments and deployments levaraging 100% Serverless technologies in AWS.
+How we created an IDP with on-demand environments and deployments levaraging 100% Serverless technologies in AWS.
 
 # Hello, I'm Eduard Bargués
 
@@ -14,6 +14,8 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 ![matej_image](https://media-exp1.licdn.com/dms/image/C5603AQHUMXScFmYl1w/profile-displayphoto-shrink_800_800/0/1635886638336?e=1663804800&v=beta&t=zYg7OCOqVxgzaB73YVw52jHxHEDMivWdOSuaSRmixiE)
 - [Carlos angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
 ![carlos_image](https://media-exp1.licdn.com/dms/image/C5603AQHvnQy-Og5slQ/profile-displayphoto-shrink_800_800/0/1579111296400?e=1663804800&v=beta&t=MNFeWz9wkTwe6yWe3WGplyyRhXXRGAQVGpoJagLyOgg)
+- [Jakub Stehlík](https://www.linkedin.com/in/jakub-stehl%C3%ADk-a486361b9/) as DevOps Engineer.
+![jakub_image](https://media-exp1.licdn.com/dms/image/C5603AQEpxK9SzUTYWA/profile-displayphoto-shrink_800_800/0/1602421908648?e=1664409600&v=beta&t=wkj88fl61MTKyqlX4JcniEKq80tJ6rpznBMJfvDIsTc)
 
 # What was PST born for?
 
@@ -68,7 +70,7 @@ Creation of Datadog dashboards to monitor everything.
 
 # How does it look?
 
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/cf78ed9b720cb6d4eb8152a08de569c7de71e001/images/main.svg)
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.png)
 
 ## What are developers suposed to do?
 
