@@ -62,6 +62,8 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
 - Postman collections available.
 - All our apis are [publicly documented](https://developer.ohpen.com).
 
+![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/secrets.svg) ![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/secrets.svg)
+
 ## Developers
 
 - Security first approach. They develop exactly like in production.
