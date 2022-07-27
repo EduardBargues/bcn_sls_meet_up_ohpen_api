@@ -87,6 +87,9 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
 
 ## Pull request to create a new environment
 
+- An "empty" AWS account is created.
+- Then, developers add features to it via json configuration.
+
 ```json
 {
   "account_id": "74...9",
@@ -218,3 +221,7 @@ datadog_monitors_configuration = {
 - [o(h)pen source organization](https://github.com/ohpensource)
 - [We are hiring!](https://ohpen.pinpointhq.com/)
 - [Contact me 😄](https://www.linkedin.com/in/eduardbargues/)
+
+### Any question/Feedback?
+
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.svg)
