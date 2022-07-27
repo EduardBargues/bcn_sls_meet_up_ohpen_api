@@ -57,19 +57,20 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
 
 ## Clients
 
-- Secrets stored in Secrets Manager.
-- Only accessible via resource policies and trusted IAM roles.
-- Postman collections available.
-- All our apis are [publicly documented](https://developer.ohpen.com).
+#### Secrets stored in Secrets Manager
 
-![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_secrets.svg) ![_secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_secrets.svg)
+Only accessible via resource policies and trusted IAM roles.
+
+![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_secrets.svg)
+
+#### All our apis are [publicly documented](https://developer.ohpen.com)
 
 ## Developers
 
 - Security first approach. They develop exactly like in production.
 - They can create/destroy environments and apis via pull requests.
 
-# 👀 Monitoring from day 0
+# 👀 Monitoring
 
 ## Compliance
 
@@ -81,7 +82,7 @@ Creation of Datadog dashboards to monitor everything.
 
 # How does it look?
 
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.svg)
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_main.svg)
 
 ## What are developers suposed to do?
 
