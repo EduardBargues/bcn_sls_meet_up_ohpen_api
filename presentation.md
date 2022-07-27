@@ -72,9 +72,15 @@ Only accessible via resource policies and trusted IAM roles.
 
 # 👀 Monitoring
 
-### We leverage AWS Config and Cloud Trail to track everything and forward it to Datadog. ![compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/compliance.svg)
+#### AWS Config for compliance analysis
 
-- Using AWS Cost explorer api, we can aggregate costs based on AWS service accross all AWS accounts. 
+#### Cost explorer for aggregated reports
+
+#### Cloud Trail to monitor deployments
+
+#### Cloud Watch for logging
+
+![compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/compliance.svg)
 
 # How does it look?
 
