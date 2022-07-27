@@ -41,17 +41,17 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 
 # 🛡️ Security
 
-### Mutual TLS 
+## Mutual TLS 
 
 Using Custom Domain Names and AWS certificates manager.
 
 ![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/mTLS.svg)
 
-### JWT based access
+## JWT based access
 
 Using Cognito, Apigateway and Custom Lambda authorizer.
 
-### IP whitelisting
+## IP whitelisting
 
 Using WAF rules.
 
