@@ -72,13 +72,10 @@ Only accessible via resource policies and trusted IAM roles.
 
 # 👀 Monitoring
 
-#### AWS Config for compliance analysis
-
-#### Cost explorer for aggregated reports
-
-#### Cloud Trail to monitor deployments
-
-#### Cloud Watch for logging
+- AWS Config for compliance analysis.
+- Cost explorer for aggregated reports.
+- Cloud Trail to monitor deployments.
+- Cloud Watch for logging.
 
 ![compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/compliance.svg)
 
