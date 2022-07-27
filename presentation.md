@@ -208,11 +208,13 @@ datadog_monitors_configuration = {
 
 - 100+ AWS accounts.
 - 250+ APIs publicly available.
+- API deployments under 22 seconds.
 - Everything is 1 pull request away.
 
 ![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
 
 # Thank you!
 
-[o(h)pen source organization](https://github.com/ohpensource)
-[We are hiring!](https://ohpen.pinpointhq.com/)
+- [o(h)pen source organization](https://github.com/ohpensource)
+- [We are hiring!](https://ohpen.pinpointhq.com/)
+- [Contact me 😄](https://www.linkedin.com/in/eduardbargues/)
