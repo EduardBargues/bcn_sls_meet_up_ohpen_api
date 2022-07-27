@@ -57,18 +57,18 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
 
 ## Clients
 
-#### Secrets stored in Secrets Manager
-
-Only accessible via resource policies and trusted IAM roles.
+- Secrets stored in Secrets Manager
+- Only accessible via resource policies and trusted IAM roles.
+- All our apis are [publicly documented](https://developer.ohpen.com)
 
 ![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_secrets.svg)
-
-#### All our apis are [publicly documented](https://developer.ohpen.com)
 
 ## Developers
 
 - Security first approach. They develop exactly like in production.
 - They can create/destroy environments and apis via pull requests.
+
+![devops](https://www.websdirect.es/wp-content/uploads/2022/02/Devops.jpg)
 
 # 👀 Monitoring
 
@@ -83,68 +83,41 @@ Only accessible via resource policies and trusted IAM roles.
 
 ![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.svg)
 
-## How does it work?
+# How does it work?
 
-#### Pull request to create a new environment
+## Pull request to create a new environment
 
 ```json
 {
   "account_id": "74...9",
-  "defaults": {
-    ...
-  },
-  "vpc": {
-    ...
-  },
-  "cloudmap": {
-    ...
-  },
-  "config": {
-    ...
-  }
+  "defaults": {...},
+  "vpc": {...},
+  "cloudmap": {...},
+  "config": {...}
 }
 ```
 
-#### Pull requests to deploy security layer
+## Pull requests to deploy security layer
 
-```bash
+```hcl
 aws_nwk_account_id                       = "5...2"
-aws_nwk_deployment_role_name             = "dev-cicd-automation"
+aws_nwk_deployment_role_name             = "dev-..."
 cognito_client_role_trusted_accounts     = ["2...1"]
 enable_cognito_client_secrets_collection = true
 expose_connection_data_in_ssm            = true
 enable_aggregated_datadog_dashboard      = true
 waf_allowed_ips = [
-  "xx.xx.xx.xxx/32", # Ohpen AWS Client VPN NAT GW IP
-  # BITBUCKET IPs
-  # https://support.atlassian.com/bitbucket-cloud/docs/what-are-the-bitbucket-cloud-ip-addresses-i-should-use-to-configure-my-corporate-firewall/#Valid-IP-addresses-for-Bitbucket-Pipelines-build-environments
   "34.199.54.113/32",
-  "34.232.25.90/32",
-  "34.232.119.183/32",
-  "34.236.25.177/32",
-  "35.171.175.212/32",
-  "52.54.90.98/32",
-  "52.202.195.162/32",
-  "52.203.14.55/32",
-  "52.204.96.37/32",
-  "34.218.156.209/32",
-  "34.218.168.212/32",
-  "52.41.219.63/32",
-  "35.155.178.254/32",
-  "35.160.177.10/32",
-  "34.216.18.129/32",
-  # DATADOG eu-west-1 IPs
-  "63.35.33.198/32",
-  "18.200.120.237/32",
+  ...,
   "63.34.100.178/32"
 ]
 ```
 
-#### Pull requests to deploy api(s)
+## Pull requests to deploy api(s)
 
-```bash
+```hcl
 aws_nwk_account_id           = "8...2"
-aws_nwk_deployment_role_name = "dev-cicd-automation"
+aws_nwk_deployment_role_name = "dev-..."
 stage_data_trace_enabled     = true
 api = {
   name            = "serverless-template"
@@ -160,14 +133,7 @@ stage_throttling = {
 }
 
 endpoints = {
-  "GET /mock-with-no-auth" = {
-    integration_type = "MOCK",
-    configuration = {
-      response_status_code = 200
-    }
-    auth_type = "NONE"
-  }
-  "GET /mock-with-cognito-auth-1" = {
+  "GET /mock" = {
     integration_type = "MOCK",
     configuration = {
       response_status_code = 200
@@ -240,11 +206,11 @@ datadog_monitors_configuration = {
 
 # 👏 Success!
 
-## 100+ AWS accounts
+- 100+ AWS accounts.
+- 250+ APIs publicly available.
+- Everything is 1 pull request away.
 
-## 250+ APIs publicly available
-
-## Everything is 1 pull request away
+![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
 
 # Thank you!
 
