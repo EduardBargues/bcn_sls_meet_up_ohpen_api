@@ -43,21 +43,15 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 
 ## Mutual TLS
 
-Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager.
-
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/mTLS.svg)
+Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager. ![mtls](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/mTLS.svg)
 
 ## JWT based access
 
-Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb.
-
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jwt_access.svg)
+Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb. ![jwt](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jwt_access.svg)
 
 ## IP whitelisting
 
-Using WAF rules and apigateway.
-
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/waf.svg)
+Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/waf.svg)
 
 # 🧰 Easy integration
 
