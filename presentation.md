@@ -82,7 +82,7 @@ Creation of Datadog dashboards to monitor everything.
 
 # How does it look?
 
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_main.svg)
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_main_.svg)
 
 ## What are developers suposed to do?
 
