@@ -41,15 +41,18 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 
 # 🛡️ Security
 
-## Mutual TLS 
+## Mutual TLS
 
-Using Custom Domain Names and AWS certificates manager.
+Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager.
 
 ![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/mTLS.svg)
 
 ## JWT based access
 
-Using Cognito, Apigateway and Custom Lambda authorizer.
+Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb.
+
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jwt.svg)
+
 
 ## IP whitelisting
 
