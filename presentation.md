@@ -51,7 +51,7 @@ Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates mana
 
 Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb.
 
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jwt.svg)
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jwt_access.svg)
 
 ## IP whitelisting
 
