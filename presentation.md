@@ -1,6 +1,8 @@
 # Ohpen-API
 
-How we created an IDP with on-demand environments and deployments levaraging 100% Serverless technologies in AWS.
+How we created an IDP with on-demand environments leveraging 100% Serverless technologies in AWS.
+
+![idp](https://internaldeveloperplatform.org/full_logo.png)
 
 # Hello, I'm Eduard Bargués
 
@@ -17,7 +19,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 - [Jakub Stehlík](https://www.linkedin.com/in/jakub-stehl%C3%ADk-a486361b9/) as DevOps Engineer.
 ![jakub_image](https://media-exp1.licdn.com/dms/image/C5603AQEpxK9SzUTYWA/profile-displayphoto-shrink_800_800/0/1602421908648?e=1664409600&v=beta&t=wkj88fl61MTKyqlX4JcniEKq80tJ6rpznBMJfvDIsTc)
 
-# What was PST born for?
+# 👶 The dawn of Platform Services Team
 
 ## Ohpen was facing many problems
 
@@ -26,23 +28,32 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 - We had to ensure security and compliance over and over.
 - Developers manually maintained their environments.
 
+![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
+
 ## The vision
 
 - Self service environments for our developers.
-- Automatic creation of environments and apis for our clients.
-- Both must be secured the same way as in production.
+- On-demand environments and apis for our clients.
+- Security first: Everything as in production by default.
 - Must be easy to use and configure.
+
+![vision](https://fundhemi.org/wp-content/uploads/2019/03/vision.jpg)
 
 # 🛡️ Security
 
-## Auth
+### Mutual TLS 
 
-- Mutual TLS using Custom Domain Names and AWS certificates manager.
-- JWT based access using Cognito, Apigateway and Custom Lambda authorizer.
+Using Custom Domain Names and AWS certificates manager.
 
-## IP filtering
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/mTLS.svg)
 
-IP whitelisting using WAF rules.
+### JWT based access
+
+Using Cognito, Apigateway and Custom Lambda authorizer.
+
+### IP whitelisting
+
+Using WAF rules.
 
 # 🧰 Easy integration
 
@@ -55,7 +66,7 @@ IP whitelisting using WAF rules.
 
 ## Developers
 
-- Security first design. They develop exactly like in production.
+- Security first approach. They develop exactly like in production.
 - They can create/destroy environments and apis via pull requests.
 
 # 👀 Monitoring from day 0
