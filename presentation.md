@@ -51,7 +51,7 @@ Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb. ![auth](https:
 
 ## IP whitelisting
 
-Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/waf_ip.svg)
+Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/waf.svg)
 
 # 🧰 Easy integration
 
