@@ -43,7 +43,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) g
 
 ## Mutual TLS
 
-Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager. ![mtls](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/mTLS.svg)
+Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager. ![mtls](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_mtls_.svg)
 
 ## JWT based access
 
