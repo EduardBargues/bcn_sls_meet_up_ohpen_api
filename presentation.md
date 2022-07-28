@@ -47,7 +47,7 @@ Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates mana
 
 ## JWT based access
 
-Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb. ![jwt](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jwt_access.svg)
+Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb. ![auth](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/auth.svg)
 
 ## IP whitelisting
 
@@ -99,6 +99,8 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
   "config": {...}
 }
 ```
+
+TODO: include AVM diagram
 
 ## Pull requests to deploy security layer
 
