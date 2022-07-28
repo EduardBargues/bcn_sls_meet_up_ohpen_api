@@ -118,23 +118,31 @@ waf_allowed_ips = [
 
 ## Pull requests to deploy api(s)
 
+#### Information about api and environment
+
 ```hcl
 aws_nwk_account_id           = "8...2"
-aws_nwk_deployment_role_name = "dev-..."
-stage_data_trace_enabled     = true
 api = {
   name            = "serverless-template"
   base_path       = "template"
   version         = "1.2.3"
   openapi_version = "3.0.1"
 }
+```
 
+#### Throttling
+
+```hcl
 stage_throttling = {
   enabled = true
   rate    = 1000
   burst   = 100
 }
+```
 
+#### Endpoints
+
+```hcl
 endpoints = {
   "GET /mock" = {
     integration_type = "MOCK",
@@ -162,19 +170,12 @@ endpoints = {
       "ohpen-api-cba-..."
     ]
   }
-  "GET /vpc-link" = {
-    integration_type = "HTTP"
-    configuration = {
-      integration_endpoint_url = "http://myApi.example.com"
-      vpc_link_id              = "sd...3"
-    }
-    allowed_authorization_scopes = [
-      "ohpen-api-abc-...",
-      "ohpen-api-cba-..."
-    ]
-  },
 }
+```
 
+#### Monitoring
+
+```hcl
 enable_datadog_availability_dashboard = true
 
 enable_datadog_slo = true
