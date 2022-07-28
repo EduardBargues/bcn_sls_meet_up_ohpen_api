@@ -61,7 +61,7 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
 - Only accessible via resource policies and trusted IAM roles.
 - All our apis are [publickly documented](https://developer.ohpen.com)
 
-![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_secrets.svg)
+![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/secrets.svg)
 
 ## Developers
 
