@@ -77,7 +77,7 @@ Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardB
 - Cloud Trail to monitor deployments.
 - Cloud Watch for logging.
 
-![compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/compliance.svg)
+![compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog.svg)
 
 # How does it look?
 
