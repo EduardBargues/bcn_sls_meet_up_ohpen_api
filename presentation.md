@@ -13,13 +13,13 @@ You can find me on:
 
 I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of incredible people.
 
-## My awesome team
+## Platform Services awesome team
 
-👉 [Jozef Cajkovic!](https://www.linkedin.com/in/jozef-%C4%8Dajkovi%C4%8D-3389b644/) as Team Lead and Cloud architect.
-👉 [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
-👉 [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
+![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jozef_carlos_matej.png)
 
-![idp](https://internaldeveloperplatform.org/full_logo.png)
+- [Jozef Cajkovic](https://www.linkedin.com/in/jozef-%C4%8Dajkovi%C4%8D-3389b644/) as Team Lead and Cloud architect.
+- [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
+- [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
 
 # 👶 The dawn of the Platform Services Team
 
