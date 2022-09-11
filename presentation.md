@@ -27,13 +27,17 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
-## Multi client account per stage
+## A more classic approach
 
-![multi_client_account](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/multi_client_account.png)
+![legacy](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/legacy.png)
 
-# Compliance was becoming a problem
+# This doesn't escale!
 
 ![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
+
+- Managing releases and communication with clients became tedious.
+- Security became a stopper instead of being transparent to developers.
+- We had to do manual steps to ensure compliance.
 
 # The dawn of PST
 
