@@ -25,7 +25,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ## We created APIs in different ways
 
-![pst_team_png](https://github.com/EduardBargues/bcn_sls_meet_up_ohpen_api/blob/main/images/new_stack_setup.png)
+![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
 ## We had to ensure security and compliance over and over
 
