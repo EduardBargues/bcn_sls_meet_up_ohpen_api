@@ -21,13 +21,17 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 - [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
 - [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
 
-# Before PST
+# We created APIs in different ways
 
-## We created APIs in different ways
+## Nwk account + Stage account
 
-![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
+![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
-## We had to ensure security and compliance over and over
+## Multi client account per stage
+
+![multi_client_account](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/multi_client_account.png)
+
+# Compliance was becoming a problem
 
 ![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
 
