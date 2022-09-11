@@ -2,7 +2,7 @@
 
 How we created an IDP with on-demand environments leveraging 100% Serverless technologies in AWS.
 
-![idp](https://internaldeveloperplatform.org/full_logo.png)
+![idp](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/idp.png)
 
 # Hello, I'm Eduard Bargués
 
