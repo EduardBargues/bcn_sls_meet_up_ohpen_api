@@ -13,7 +13,7 @@ You can find me on:
 
 I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of incredible people.
 
-## Platform Services awesome team
+## Platform Services Team (PST)
 
 ![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jozef_carlos_matej.png)
 
@@ -21,18 +21,17 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 - [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
 - [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
 
-# 👶 The dawn of the Platform Services Team
+# Before PST
 
-## We were facing many problems
+## We created APIs in different ways
 
-- Domain teams where exposing APIs to clients in (too) many different ways.
-- Each new client to onboard had different requirements.
-- We had to ensure security and compliance over and over.
-- Developers manually maintained their environments.
+![pst_team_png](https://github.com/EduardBargues/bcn_sls_meet_up_ohpen_api/blob/main/images/new_stack_setup.png)
+
+## We had to ensure security and compliance over and over
 
 ![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
 
-## The vision
+# The dawn of PST
 
 - Self service environments for our developers.
 - On-demand environments and apis for our clients.
@@ -41,7 +40,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![vision](https://fundhemi.org/wp-content/uploads/2019/03/vision.jpg)
 
-# 🛡️ Security
+# Security
 
 ## Mutual TLS
 
