@@ -1,4 +1,4 @@
-# Ohpen-API
+# Ohpen-IDP
 
 How we created an IDP with on-demand environments leveraging 100% Serverless technologies in AWS.
 
@@ -6,18 +6,20 @@ How we created an IDP with on-demand environments leveraging 100% Serverless tec
 
 # Hello, I'm Eduard Bargués
 
-You can find me on [Github](https://github.com/eduardbargues/), [Linkedin](https://www.linkedin.com/in/eduardbargues/) and [eduardbargues.github.io](https://eduardbargues.github.io/).
+You can find me on:
 
-I work at [Ohpen](https://ohpen.com) as Platform Owner together with a (small) group of incredible people:
+- [Linkedin](https://www.linkedin.com/in/eduardbargues/).
+- [Github](https://github.com/eduardbargues/) or [eduardbargues.github.io](https://eduardbargues.github.io/).
 
-- [Jozef Cajkovic](https://www.linkedin.com/in/jozef-%C4%8Dajkovi%C4%8D-3389b644/) as Cloud Architect and Team Lead.
-![josef_image](https://media-exp1.licdn.com/dms/image/C5603AQFKf-Vyb1VGEQ/profile-displayphoto-shrink_800_800/0/1517376141267?e=1663804800&v=beta&t=nKAnpq3N-8jU4Pnhsz5aOyqUCA1mqcFDMbh8MXA8LpE)
-- [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
-![matej_image](https://media-exp1.licdn.com/dms/image/C5603AQHUMXScFmYl1w/profile-displayphoto-shrink_800_800/0/1635886638336?e=1663804800&v=beta&t=zYg7OCOqVxgzaB73YVw52jHxHEDMivWdOSuaSRmixiE)
-- [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
-![carlos_image](https://media-exp1.licdn.com/dms/image/C5603AQHvnQy-Og5slQ/profile-displayphoto-shrink_800_800/0/1579111296400?e=1663804800&v=beta&t=MNFeWz9wkTwe6yWe3WGplyyRhXXRGAQVGpoJagLyOgg)
-- [Jakub Stehlík](https://www.linkedin.com/in/jakub-stehl%C3%ADk-a486361b9/) as DevOps Engineer.
-![jakub_image](https://media-exp1.licdn.com/dms/image/C5603AQEpxK9SzUTYWA/profile-displayphoto-shrink_800_800/0/1602421908648?e=1664409600&v=beta&t=wkj88fl61MTKyqlX4JcniEKq80tJ6rpznBMJfvDIsTc)
+I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of incredible people.
+
+## My awesome team
+
+👉 [Jozef Cajkovic!](https://www.linkedin.com/in/jozef-%C4%8Dajkovi%C4%8D-3389b644/) as Team Lead and Cloud architect.
+👉 [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
+👉 [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
+
+![idp](https://internaldeveloperplatform.org/full_logo.png)
 
 # 👶 The dawn of the Platform Services Team
 
