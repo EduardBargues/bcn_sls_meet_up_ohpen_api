@@ -23,7 +23,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 # We created APIs in different ways
 
-## Nwk account + Stage account
+## Nwk + Stage accounts
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
@@ -31,62 +31,73 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![legacy](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/legacy.png)
 
-# This doesn't escale!
+# This does NOT escale!
 
 ![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
 
-- Managing releases and communication with clients became tedious.
+- Managing releases was tedious.
 - Security became a stopper instead of being transparent to developers.
 - We had to do manual steps to ensure compliance.
 
-# The dawn of PST
-
-- Self service environments for our developers.
-- On-demand environments and apis for our clients.
-- Security first: Everything as in production by default.
-- Must be easy to use and configure.
+## Breath in, breath out
 
 ![vision](https://fundhemi.org/wp-content/uploads/2019/03/vision.jpg)
 
-# Security
+Let's list the requirements and start small.
+
+# Environments
+
+## AWS account setup
+
+## Release management
+
+Something is being deployed.
+
+- Where?
+- Which service and version?
+- Who is deploying?
+
+# API security
 
 ## Mutual TLS
 
-Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager. ![mtls](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_mtls.svg)
+![mtls](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_mtls.svg)
+Using Route53 public Hosted Zones, Custom Domain Names and AWS certificates manager.
 
 ## JWT based access
 
-Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb. ![auth](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/auth.svg)
+![auth](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/auth.svg)
+Using Cognito, Apigateway, Custom Lambda authorizer and Dynamodb.
 
 ## IP whitelisting
 
-Using WAF rules and apigateway. ![waf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/waf.svg)
+![waf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/waf.svg)
+Using WAF rules and apigateway.
 
-# 🧰 Easy integration
+# Easy integration
 
 ## Clients
+
+![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/secrets.svg)
 
 - Secrets stored in Secrets Manager
 - Only accessible via resource policies and trusted IAM roles.
 - All our apis are [publickly documented](https://developer.ohpen.com)
 
-![secrets](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/secrets.svg)
-
 ## Developers
+
+![devops](https://www.websdirect.es/wp-content/uploads/2022/02/Devops.jpg)
 
 - Security first approach. They develop exactly like in production.
 - They can create/destroy environments and apis via pull requests.
 
-![devops](https://www.websdirect.es/wp-content/uploads/2022/02/Devops.jpg)
-
-# 👀 Monitoring
-
-- AWS Config for compliance analysis.
-- Cost explorer for aggregated reports.
-- Cloud Trail to monitor deployments.
-- Cloud Watch for logging.
+# Monitoring
 
 ![compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/_datadog.svg)
+
+- AWS Config for compliance and deployment analysis.
+- Cost explorer for aggregated reports.
+- Cloud Watch for logging.
 
 # How does it look?
 
@@ -221,19 +232,17 @@ datadog_monitors_configuration = {
 
 # 👏 Success!
 
+![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
+
 - 100+ AWS accounts.
 - 250+ APIs publicly available.
 - API deployments under 22 seconds.
 - Everything is 1 pull request away.
 
-![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
-
 # Thank you!
+
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.svg)
 
 - [o(h)pen source organization](https://github.com/ohpensource)
 - [We are hiring!](https://ohpen.pinpointhq.com/)
 - [Contact me 😄](https://www.linkedin.com/in/eduardbargues/)
-
-### Any question/Feedback?
-
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.svg)
