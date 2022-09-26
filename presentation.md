@@ -74,6 +74,18 @@ Something is being deployed.
 
 ![developers](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/developers.jpg)
 
+We are developing a new application.
+
+- Focus on bussines.
+- Independent deployments.
+- Security and compliance must be abstracted.
+
+# AWS accounts
+
+![developers](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_terraform.png)
+
+- Created via PR.
+
 # Environments
 
 ## AWS account setup
