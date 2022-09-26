@@ -30,15 +30,13 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 # How did we manage APIs?
 
-## Multitenant Aws account supporting many clients
+## Multi tenancy supporting many clients
 
 ![legacy](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/legacy.png)
 
-## Singletenancy with dedicated networking
+## Single tenancy with dedicated networking
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
-
-## Singletenancy
 
 # This does NOT escale!
 
