@@ -91,7 +91,16 @@ We are developing a new application.
 ## Enriched via `baselines`
 
 ![dev_pfs_baseline_conf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_baseline_conf.png)
+
+- Developers configure their Aws accounts via pull requests.
+
+## We constantly improve baselines
+
 ![dev_pfs_baseline_terraform](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_baseline_terraform.png)
+
+Config baseline monitors: Aws **costs**, **compliance** and **deployments**.
+
+## We aggregate all information in Datadog
 
 # Environments
 
