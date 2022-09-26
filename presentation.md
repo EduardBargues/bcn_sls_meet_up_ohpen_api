@@ -23,7 +23,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ## What does Ohpen do?
 
-![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_logo.png)
+![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_logo.jpg)
 
 - Provide Saas products to Banks.
 - Automatically compliant with EU requirements.
