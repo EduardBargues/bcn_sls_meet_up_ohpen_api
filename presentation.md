@@ -72,7 +72,7 @@ Something is being deployed.
 
 ## Developers
 
-![release_management](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/developers.jpg)
+![developers](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/developers.jpg)
 
 # Environments
 
