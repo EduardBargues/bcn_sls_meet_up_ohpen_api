@@ -25,18 +25,20 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![ohpen_products](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_products.png)
 
-- Provide Saas products to Banks behind APIs.
-- Automatically compliant with EU requirements.
+- Provide Saas products to Banks **behind APIs**.
+- Automatically secured and compliant with EU requirements.
 
-# We created APIs in different ways
+# How did we manage APIs?
 
-## Nwk + Stage accounts
+## Multitenant Aws account supporting many clients
+
+![legacy](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/legacy.png)
+
+## Singletenancy with dedicated networking
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
-## A more classic approach
-
-![legacy](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/legacy.png)
+## Singletenancy
 
 # This does NOT escale!
 
