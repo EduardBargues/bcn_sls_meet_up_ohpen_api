@@ -34,7 +34,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![legacy](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/legacy.png)
 
-## Single tenancy with dedicated networking
+## Single tenancy + networking
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
@@ -47,23 +47,25 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 - We had to do manual steps to ensure compliance.
 - Every different setup required compliance and security analysis.
 
-## Breath in, breath out
+## The dawn of PST
 
 ![vision](https://fundhemi.org/wp-content/uploads/2019/03/vision.jpg)
 
 Let's list the requirements and start small.
 
-# Environments
-
-## AWS account setup
-
 ## Release management
+
+![test](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/release_management.png)
 
 Something is being deployed.
 
 - Where?
 - Which service and version?
 - Who is deploying?
+
+# Environments
+
+## AWS account setup
 
 # API security
 
