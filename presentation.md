@@ -38,13 +38,14 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
-# This does NOT escale!
+# This doesn't escale!
 
 ![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
 
 - Managing releases was tedious.
 - Security became a stopper instead of being transparent to developers.
 - We had to do manual steps to ensure compliance.
+- Every different setup required compliance and security analysis.
 
 ## Breath in, breath out
 
