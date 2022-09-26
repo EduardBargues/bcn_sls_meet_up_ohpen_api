@@ -1,4 +1,4 @@
-# Ohpen-IDP
+# Serverless IDP within Ohpen
 
 How we created an IDP with on-demand environments leveraging 100% Serverless technologies in AWS.
 
@@ -20,6 +20,15 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 - [Jozef Cajkovic](https://www.linkedin.com/in/jozef-%C4%8Dajkovi%C4%8D-3389b644/) as Team Lead and Cloud architect.
 - [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
 - [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
+
+## What does Ohpen do?
+
+![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_logo.png)
+
+- Provide Saas products to Banks.
+- Automatically compliant with EU requirements.
+- Covering their needs in savings and investment accounts, instant payments, morgages and loans among others.
+- Most of our products are APIs.
 
 # We created APIs in different ways
 
