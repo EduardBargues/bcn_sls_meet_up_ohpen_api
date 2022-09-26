@@ -100,7 +100,13 @@ We are developing a new application.
 
 Config baseline monitors: Aws **costs**, **compliance** and **deployments**.
 
-## We aggregate all information in Datadog
+## Deployments
+
+![datadog_life_services](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_life_services.png)
+
+## Compliance
+
+![datadog_compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_compliance.png)
 
 # Environments
 
