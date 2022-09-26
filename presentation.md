@@ -86,9 +86,12 @@ We are developing a new application.
 
 ## Created via pull request
 
-![dev_pfs](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_terraform.png)
+![dev_pfs_terraform](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_terraform.png)
 
 ## Enriched via `baselines`
+
+![dev_pfs_baseline_conf](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_baseline_conf.png)
+![dev_pfs_baseline_terraform](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_baseline_terraform.png)
 
 # Environments
 
