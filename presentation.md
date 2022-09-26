@@ -94,15 +94,17 @@ We are developing a new application.
 
 - Developers configure their Aws accounts via pull requests.
 
-## We constantly improve baselines
+## Config baseline
+
+![config_baseline](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/config_baseline.png)
+
+Monitors: Aws **costs**, **compliance** and **deployments**.
 
 ![dev_pfs_baseline_terraform](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_baseline_terraform.png)
 
-Config baseline monitors: Aws **costs**, **compliance** and **deployments**.
-
 ## Deployments
 
-![datadog_life_services](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_life_services.png)
+![datadog_deployments](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_deployments.png)
 
 ## Compliance
 
