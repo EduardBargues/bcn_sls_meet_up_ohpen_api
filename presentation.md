@@ -82,9 +82,13 @@ We are developing a new application.
 
 # AWS accounts
 
+![aws_account_management](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/aws_account_management.png)
+
+## Created via pull request
+
 ![dev_pfs](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_terraform.png)
 
-- Created via PR.
+## Enriched via `baselines`
 
 # Environments
 
@@ -286,3 +290,4 @@ Icons from
 <a href="https://www.flaticon.com/free-icons/investment" title="investment icons">Investment icons created by justicon - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/mortgage" title="mortgage icons">Mortgage icons created by RaftelDesign - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/debt" title="debt icons">Debt icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/close" title="close icons">Close icons created by Pixel perfect - Flaticon</a>
