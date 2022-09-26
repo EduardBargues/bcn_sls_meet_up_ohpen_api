@@ -56,6 +56,10 @@ Let's list the requirements and start small.
 
 ![customer](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/customer.png)
 
+- Compliance.
+- Security.
+- Easy integration.
+
 ## Release management
 
 ![release_management](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/release_management.png)
@@ -65,6 +69,10 @@ Something is being deployed.
 - Where?
 - Which service and version?
 - Who is deploying?
+
+## Developers
+
+![release_management](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/developers.jpg)
 
 # Environments
 
