@@ -82,7 +82,7 @@ We are developing a new application.
 
 # AWS accounts
 
-![developers](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_terraform.png)
+![dev_pfs](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/dev_pfs_terraform.png)
 
 - Created via PR.
 
