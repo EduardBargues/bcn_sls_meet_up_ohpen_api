@@ -133,7 +133,7 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 
 # 👏 Success!
 
-![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
+![success](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/success.jpeg)
 
 - 100+ AWS accounts (150+ environments).
 - Security and compliants is transparent to developers.
