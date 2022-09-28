@@ -38,7 +38,7 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 
 ![new_stack_setup](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/new_stack_setup.png)
 
-## This doesn't escale!
+## This doesn't scale!
 
 ![frustation](https://miro.medium.com/max/749/1*BpSFW3UX4JXaBUyasPcx7w.jpeg)
 
