@@ -137,11 +137,11 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 - Everything is 1 pull request away.
 - Open source model to maintain everything.
 
-## How does the platform look?
+# 👀 Overview
 
 ![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main_diagram.png)
 
-# Thank you!
+# 🤗 Thank you!
 
 - [o(h)pen source organization](https://github.com/ohpensource)
 - [We are hiring!](https://ohpen.pinpointhq.com/)
