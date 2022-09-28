@@ -123,6 +123,10 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 - JWT based authentication.
 - IP whitelisting.
 
+## Monitoring
+
+![datadog_api_dashboard](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_api_dashboard.png)
+
 # 👏 Success!
 
 ![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
