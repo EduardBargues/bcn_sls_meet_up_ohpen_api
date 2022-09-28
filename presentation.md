@@ -18,8 +18,8 @@ I work at [Ohpen](https://ohpen.com) as Platform Owner together with a group of 
 ![pst_team_png](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/jozef_carlos_matej.png)
 
 - [Jozef Cajkovic](https://www.linkedin.com/in/jozef-%C4%8Dajkovi%C4%8D-3389b644/) as Team Lead and Cloud architect.
-- [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
 - [Carlos Angulo](https://www.linkedin.com/in/angulomascarell/) as DevOps Engineer.
+- [Matej Liner](https://www.linkedin.com/in/matej-l%C3%ADner-8b283364/) as Cloud Architect.
 
 ## What does Ohpen do?
 
@@ -113,7 +113,7 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 
 # What about APIs?
 
-![ohpen_api](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_api.jpeg)
+![ohpen_api](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_api.png)
 
 ## Security
 
