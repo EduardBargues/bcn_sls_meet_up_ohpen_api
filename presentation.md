@@ -143,9 +143,10 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 
 # 🤗 Thank you!
 
-- [o(h)pen source organization](https://github.com/ohpensource)
-- [We are hiring!](https://ohpen.pinpointhq.com/)
-- [Contact me 😄](https://www.linkedin.com/in/eduardbargues/)
+- https://www.linkedin.com/in/eduardbargues/
+- https://ohpen.com/
+- https://ohpen.pinpointhq.com/
+- https://github.com/ohpensource
 - Icons from:
   - https://www.flaticon.com/free-icons
   - https://awsicons.dev/
