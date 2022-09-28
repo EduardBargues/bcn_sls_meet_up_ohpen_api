@@ -127,18 +127,24 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 
 ![datadog_api_dashboard](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_api_dashboard.png)
 
+## Apis created via pull requests
+
+![ohpen_api_pull_request](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_api_pull_request.png)
+
 # 👏 Success!
 
 ![success](https://assets.entrepreneur.com/content/3x2/2000/20150327221922-success-winning-inspirational.jpeg)
 
-- 100+ AWS accounts.
+- 100+ AWS accounts (150+ environments).
+- Security and compliants is transparent to developers.
 - 250+ APIs publicly available.
-- API deployments under 22 seconds.
+- Deployments in seconds.
 - Everything is 1 pull request away.
+- Open source model to maintain everything.
 
 # Thank you!
 
-![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main.svg)
+![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main_diagram.png)
 
 - [o(h)pen source organization](https://github.com/ohpensource)
 - [We are hiring!](https://ohpen.pinpointhq.com/)
