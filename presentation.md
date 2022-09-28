@@ -106,11 +106,6 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 
 ![datadog_deployments](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_deployments.png)
 
-<!-- ## AWS costs -->
-<!-- ## Compliance
-
-![datadog_compliance](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/datadog_compliance.png) -->
-
 # What about APIs?
 
 ![ohpen_api](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/ohpen_api.png)
