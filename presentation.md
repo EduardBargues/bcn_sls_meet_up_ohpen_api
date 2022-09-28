@@ -142,18 +142,16 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 - Everything is 1 pull request away.
 - Open source model to maintain everything.
 
-# Thank you!
+## How does the platform look?
 
 ![main_diagram](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/main_diagram.png)
+
+# Thank you!
 
 - [o(h)pen source organization](https://github.com/ohpensource)
 - [We are hiring!](https://ohpen.pinpointhq.com/)
 - [Contact me 😄](https://www.linkedin.com/in/eduardbargues/)
-
-Icons from
-<a href="https://www.flaticon.com/free-icons/payment" title="payment icons">Payment icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/cost" title="cost icons">Cost icons created by Design Circle - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/investment" title="investment icons">Investment icons created by justicon - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/mortgage" title="mortgage icons">Mortgage icons created by RaftelDesign - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/debt" title="debt icons">Debt icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/close" title="close icons">Close icons created by Pixel perfect - Flaticon</a>
+- Icons from:
+  - https://www.flaticon.com/free-icons
+  - https://awsicons.dev/
+- Presentation created via [wunderpresentation](https://wunderpresentation.com/create/markdown/) from this [repository](https://github.com/EduardBargues/bcn_sls_meet_up_ohpen_api).
