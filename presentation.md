@@ -131,7 +131,7 @@ Monitors: Aws **costs**, **compliance** and **deployments**.
 ![success](https://raw.githubusercontent.com/EduardBargues/bcn_sls_meet_up_ohpen_api/main/images/success.jpeg)
 
 - 100+ AWS accounts (150+ environments).
-- Security and compliants is transparent to developers.
+- Security and compliance is transparent to developers.
 - 250+ APIs publicly available.
 - Deployments in seconds.
 - Everything is 1 pull request away.
